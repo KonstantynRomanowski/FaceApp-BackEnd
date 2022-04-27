@@ -8,5 +8,3 @@ It's loaded with many additional features such as a "secure login system" by enc
 
 Here's the link of [front-end repository](https://github.com/KonstantynRomanowski/FaceApp-FrontEnd-) 
 
-### `Smart Brain`
-Open this [link]() to view it in the browser.
